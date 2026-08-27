@@ -1,18 +1,69 @@
-# Privacy Policy for Make Number – Math Puzzle Game
+# Privacy Policy — Rule Hunter
 
-This privacy policy explains how we collect, use, and protect your information when you use the Make Number – Math Puzzle Game app.
+**App:** Rule Hunter
+**Package name:** com.makenumber
+**Developer:** Zoran Rajkov
+**Contact:** zoranrajkov@gmail.com
+**Last updated:** 27 August 2026
 
-**Information Collection:**  
-We do not collect any personal data or track users.
+This policy explains what data the Android application **Rule Hunter**
+(package `com.makenumber`), published on Google Play by **Zoran Rajkov**,
+accesses, collects and shares.
 
-**Data Usage:**  
-No user data is collected or shared with third parties.
+## Data the developer collects
 
-**Third-Party Services:**  
-The app uses Google Play Services for in-app purchases and ads, which may collect limited data. For more information, please see Google’s Privacy Policy.
+**None.** Rule Hunter has no accounts, no login, no registration and no server
+of its own. The developer does not collect, store or receive any personal data
+about you.
 
-**Contact:**  
-If you have any questions about this privacy policy, please contact us at your-email@example.com.
+## Data stored on your device
 
-**Effective Date:**  
-July 2025
+The game saves a small amount of information locally, on your own phone, so it
+can work the way you expect:
+
+- your progress on each difficulty (which puzzle is next, and the number used
+  to generate that puzzle's numbers)
+- your settings (sound volume, vibration on or off)
+- timestamps used to decide when an advertisement may be shown
+
+This information never leaves your device, is not sent anywhere, and is deleted
+when you uninstall the app or clear its data.
+
+## Advertising
+
+Rule Hunter displays advertisements through **Google AdMob**, a service provided
+by Google. To serve and measure those advertisements, AdMob may access and
+process:
+
+- the **Advertising ID** of your device
+- device and network information (device model, operating system version,
+  language, coarse location derived from IP address)
+- interaction with the advertisements themselves
+
+The developer does not receive this data in identifiable form; only aggregate
+reports about the number of advertisements shown and revenue earned.
+
+How Google uses data from apps that use its services is described here:
+https://policies.google.com/technologies/partner-sites
+
+You can reset or delete your Advertising ID at any time in your device settings,
+under **Settings → Google → Ads**.
+
+## Children
+
+Rule Hunter is not directed at children under 13, and does not knowingly collect
+any data from them.
+
+## Permissions
+
+The app requests no dangerous Android permissions. It requires internet access
+only so that advertisements can be loaded; the game itself works offline.
+
+## Changes to this policy
+
+If this policy changes, the updated version will be published at this same
+address, with a new "Last updated" date.
+
+## Contact
+
+For any question about this policy, write to **zoranrajkov@gmail.com**.
